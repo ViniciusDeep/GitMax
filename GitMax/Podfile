@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'ios-recruitment' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for ios-recruitment
+  pod 'Reusable'
+  pod 'SDWebImage'
+  pod 'OHHTTPStubs/Swift'
+
+  target 'ios-recruitmentTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

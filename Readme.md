@@ -32,3 +32,4 @@
 1. `Clone project`
 2. `$ pod install` 
 3. Open  your Xcode, choose a simulator, click in run or use `cmd + R`
+4. Have fun

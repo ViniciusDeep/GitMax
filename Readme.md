@@ -8,7 +8,7 @@
 ![mockup](https://user-images.githubusercontent.com/32227073/67043334-356ada80-f100-11e9-8bcd-2fb54cc80be9.png)
 
 
-##### Architecture: MVVM
+##### Architecture: ![Climb](https://github.com/ViniciusDeep/Swift-Climb-Architecture)
 
 #### Features
 - ListUsers
